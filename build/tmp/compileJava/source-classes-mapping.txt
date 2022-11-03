@@ -1,0 +1,4 @@
+br/com/aab/sbnewrelease/aws1/controller/EP1Controller.java
+ br.com.aab.sbnewrelease.aws1.controller.EP1Controller
+br/com/aab/sbnewrelease/aws1/Aws1Application.java
+ br.com.aab.sbnewrelease.aws1.Aws1Application
